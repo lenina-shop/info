@@ -79,34 +79,27 @@ Die Creme sind frei von Aluminiumsalzen, Konservierungsmittel, Alkohol und reich
 <h4>Lippenpflege</h4>
 <p>Feuchtigkeitspendene <a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/gesichtspflege/lippen/">Lippen</a> beruhigt gestresste Lippen und schützt diese vor Umwelteinflüssen. Entdecke Lippenpflege mit Kaffe sowie mit Propolis und Bienenwachs.</p>
 
-<h4></h4>
-<p></p>
+<h4>Haarpflege</h4>
+<p>Hier findest Du eine breite Auswahl an <a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/haarpflege/">Haarpflege</a> Produkten wie Haarseifen, Shampoo im festen oder flüssigen Form sowie bio schwarze Seife, bio Shampoo mit Arganöl und Aloe Vera und vieles mehr…</p>
 
 <h4></h4>
-<p></p>
+<p><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/haarpflege/festes-shampoo-seifen/">Festes Shampoo</a> ist ein rein natürliches Pflegeshampoo in fester Form, die länger halten als flüssiges Shampoo. Sie sind frei von reinigungsmittelhaltigen Inhaltsstoffen, die in den meisten flüssigen Shampoos vorkommen. Tatsächlich verwenden die meisten Shampoobars natürliche Öle als Basis, so dass Du eine tief feuchtigkeitsspendende Reinigungserfahrung erhälst.</p>
 
-<h4></h4>
-<p></p>
+<h4>Flüssiges Shampoo</h4>
+<p><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/haarpflege/fluessiges-shampoo/">Flüssiges Shampoo</a> in verschiedenen Varianten: mit bio Arganöl, Olivenöl, Hanföl, sowie herrlich duftende Shampoo nach Wiese, Lavendel, Rose, Edelweiss und Zirbe.</p>
 
-<h4></h4>
-<p></p>
+<h4>Haarseife</h4>
+<p>Sanft zum Haar, zur Kopfhaut und zur Umwelt! <a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/haarpflege/haarseife-haarpflege/">Haarseife</a> reinigt Haar und Kopfhaut besonders sanft und schonend. Denn die Seife ist (im Gegensatz zu Shampoo) leicht rückfettend. Haarwaschseife ist sehr ergiebig und damit umweltfreundlich. Sie ist zur täglichen Anwendung geeignet – notwendig ist es nicht.</p>
 
-<h4></h4>
-<p></p>
+<h4>Handpflege</h4>
+<p>Nachhaltig pflegende <a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/handpflege/">Handpflege</a> mit Schafsmilch in verschiedenen Duftrichtungen wie Hanf, Lavendel, Wiesenduft, Rosenwasser, Edelweiss oder Zirbe für geschmeidig zarte Hände in praktischen Tuben für zu Hause oder für jede Handtasche.</p>
 
-<h4></h4>
-<p></p>
+<h4>Körperpflege</h4>
+<p>Reichhaltige <a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/koerperpflege/">Körperpflege</a> pflegeprodukte mit Schafmilch und pflanzlichen Ölen für eine zarte und gepflegte Haut. Bodybutter oder Bodylotion, in verschiedenen Duftrichtungen wie z.B. Lavendel, Hanf, Zirbe, Wiesenduft, bieten für jeden Geschmack die perfekte Pflege für zu Hause.</p>
 
+<h4>Body Butter</h4>
+<p><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/koerperpflege/body-butter/">Body Butter</a> mit Schafmilch, Sonnenblumenöl, Mandelöl und Weizenprotein gibt der Haut besonders viel Pflege und Feuchtigkeit und zieht schnell ein. Du findest verschiedene Duftnoten wie Wiesenduft, Zirbe, Lavendel sowie Edelweiss.</p>
 
-  <li><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/haarpflege/">Haarpflege</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/haarpflege/festes-shampoo-seifen/">Festes Shampoo</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/haarpflege/fluessiges-shampoo/">Flüssiges Shampoo</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/haarpflege/haarseife-haarpflege/">Haarseife</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/handpflege/">Handpflege</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/koerperpflege/">Körperpflege</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/koerperpflege/body-butter/">Body Butter</a></li>
- 
-</ul>
 
 
 <h3>Our Wellness Products</h3>
