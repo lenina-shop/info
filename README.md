@@ -45,8 +45,7 @@
 
 <h3>Our Wellness Products</h3>
 <ul>
-  <li><a href="
-https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/aus-liebe-zum-duft/">AUs Liebe zum Duft</a></li>
+  <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/aus-liebe-zum-duft/">AUs Liebe zum Duft</a></li>
   <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/">Kissen</a></li>
   <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/duftsaeckchen/">Duftsäckchen</a></li>
   <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/kirschkernkissen/">Kirschkernkissen</a></li>
