@@ -100,15 +100,25 @@ Die Creme sind frei von Aluminiumsalzen, Konservierungsmittel, Alkohol und reich
 <h4>Body Butter</h4>
 <p><a href="https://www.lenina.shop/produkt-kategorie/beauty/hautpflege-und-koerperpflege/koerperpflege/body-butter/">Body Butter</a> mit Schafmilch, Sonnenblumenöl, Mandelöl und Weizenprotein gibt der Haut besonders viel Pflege und Feuchtigkeit und zieht schnell ein. Du findest verschiedene Duftnoten wie Wiesenduft, Zirbe, Lavendel sowie Edelweiss.</p>
 
-
-
 <h3>Our Wellness Products</h3>
-<ul>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/aus-liebe-zum-duft/">AUs Liebe zum Duft</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/">Kissen</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/duftsaeckchen/">Duftsäckchen</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/kirschkernkissen/">Kirschkernkissen</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/kraeuterkissen/">Kräuterkissen</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/zirbenkissen/">Zirbenkissen</a></li>
-  <li><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/gluecksbringer/baumstark-handschmeichler/">Baumstark Handschmeichler</a></li>
-</ul>
+
+<h4>Aus Liebe zum Duft</h4>
+<p><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/aus-liebe-zum-duft/">Aus Liebe zum Duft</a> - wohltuende Duft Mischungen, Räuchermischungen, Räucherstäbchen oder reine Düfte die für Wohlbefinden sorgen. Für jeden, der sich gerne wohlfühlt.</p>
+
+<h4>Kissen</h4>
+<p><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/">Kissen</a> zum Erwärmen – gefüllt mit Kirschkernen oder Zirbenkissen für einen gesunden, guten Schlaf – wir bieten schöne Modelle, die jedes Zuhause aufwerten und dabei auch noch sehr wohltuend sind.</p>
+
+<h4>Duftsäckchen</h4>
+<p><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/duftsaeckchen/">Duftsäckchen</a> gefüllt mit Lavendel oder Zirbe für einen angenehmen Duft in Kleiderschrank, im Wohnzimmer oder einfach nur zur Deko.</p>
+
+<h4>Kirschkernkissen</h4>
+<p><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/kirschkernkissen/">Kirschkernkissen</a> lassen sich wunderbar im Backofen oder in der Mikrowelle erwärmen und helfen schon den kleinsten bei Bauchschmerzen oder anderen Schmerzen. Die Kerne halten die Wärme, was sehr wohltuend sein kann.</p>
+
+<h4>Kräuterkissen</h4>
+<p><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/kraeuterkissen/">Kräuterkissen</a> sind eine wunderbare Möglichkeit, Kräuter in das Leben Deiner Freunde und Familie zu integrieren. Der Duft hilft Dir, gut zu schlafen, und kann je nach den verwendeten Kräutern sogar dazu beitragen, lebhafte Träume zu erzeugen. Für viele Menschen ist der Schlaf im Idealfall eine Zeit, in der sie ihren Alltag bewältigen können. Für diejenigen, die an diese Idee glauben, können Träume der Weg sein, um Probleme zu lösen und sich tagsüber ausgeglichen zu fühlen.</p>
+
+<h4>Zirbenkissen</h4>
+<p><a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/kissen/zirbenkissen/">Zirbenkissen</a> - Wusstest Du, dass ein Drittel aller Deutschen unter Schlafmangel leidet? Gut möglich, dass auch Du Dich nachts ruhelos herumwälzt. Schluss mit schlaflosen Nächten. Das Zirbenkissen bringt Dich wieder zum Träumen. Die Wissenschaft kann das nur bestätigen: Zirbenkissen fördern nachweislich den Schlaf.</p>
+
+<h4>Baumstark Handschmeichler</h4>
+<p>Dein Lebensbaum – <a href="https://www.lenina.shop/produkt-kategorie/gesundheit-und-wellness/gluecksbringer/baumstark-handschmeichler/">Baumstark Handschmeichler</a> aus Holz: Nach dem keltischen Baumhoroskop besitzt jeder Mensch entsprechend seinem Geburtsdatum einen persönlichen Lebensbaum. Insgesamt gibt es 22 verschiedene Lebensbäume, bzw. Holzarten. Ähnlich wie bei dem Sternenhoroskop zeigt uns keltisches Horoskop des Baums, welche Charaktereigenschaften den Menschen mit seinem jeweiligen Lebensbaum verbinden.</p>
